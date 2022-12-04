@@ -3,4 +3,5 @@ ATM.c is a simple mini project which contains ATM fuctionalities.This project co
 INSTRUCTIONS  TO RUN THE PROJECT:
 
 1.Compile and run ATM.c in compatible ide.
-\n2.to insert atm enter i or I.
+
+2.to insert atm enter i or I.
